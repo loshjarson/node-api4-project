@@ -4,7 +4,8 @@
   "description": "In this challenge, you will build a simple Express app and deploy it to Heroku.",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "14.x",
+    "npm": "8.3"
   },
   "scripts": {
     "start": "node index.js",
